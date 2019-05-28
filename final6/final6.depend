@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1497710354 source:d:\c+++\final6\main.cpp
+	<iostream>
+	<graphics.h >
+	<windows.h >
+	<conio.h >
+	<string.h >
+	<stdlib.h >
+	<time.h >
+	<stdio.h >
+	<math.h >
+
